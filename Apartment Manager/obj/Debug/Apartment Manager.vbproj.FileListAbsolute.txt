@@ -1,0 +1,12 @@
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\bin\Debug\Apartment Manager.exe.config
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\bin\Debug\Apartment Manager.exe
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\bin\Debug\Apartment Manager.pdb
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\bin\Debug\Apartment Manager.xml
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment Manager.vbprojAssemblyReference.cache
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment_Manager.Form1.resources
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment_Manager.Resources.resources
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment Manager.vbproj.GenerateResource.cache
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment Manager.vbproj.CoreCompileInputs.cache
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment Manager.exe
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment Manager.xml
+C:\Users\derde\source\repos\Apartment Manager\Apartment Manager\obj\Debug\Apartment Manager.pdb
